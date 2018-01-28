@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Ambiente Controlado</string>
     <string name="temperatura_referencia">Temperatura de referência:</string>
+    <string name="temperatura">Temperatura em ºC</string>
+    <string name="conecteAoDispositivo">Conecte ao dispositivo para exibir o gráfico de temperatura</string>
 </resources>
