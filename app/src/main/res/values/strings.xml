@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ambiente Controlado</string>
+    <string name="temperatura_referencia">Temperatura de referência:</string>
+</resources>
