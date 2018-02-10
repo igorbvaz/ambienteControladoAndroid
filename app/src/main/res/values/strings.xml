@@ -2,5 +2,13 @@
     <string name="app_name">Ambiente Controlado</string>
     <string name="temperatura_referencia">Temperatura de referência:</string>
     <string name="temperatura">Temperatura em ºC</string>
-    <string name="conecteAoDispositivo">Conecte ao dispositivo para exibir o gráfico de temperatura</string>
+    <string name="conectandoAoDispositivo">Conectando ao dispositivo...</string>
+    <string name="title_activity_configuracao_bluetooth">Dispositivos Bluetooth</string>
+    <string name="nenhumDispositivo">Nenhum dispositivo bluetooth disponível</string>
+    <string name="dispositivosPareados">Dispositivos pareados</string>
+    <string name="desemparelhar">Desemparelhar</string>
+    <string name="enviarPedidoPareamento">Enviando pedido de pareamento...</string>
+    <string name="bluetoothNaoSuportado">Seu dispositivo não tem suporte a conexões Bluetooth</string>
+    <string name="pareadoA">Pareado a</string>
+    <string name="dispositivosDisponiveis">Dispositivos disponíveis</string>
 </resources>
